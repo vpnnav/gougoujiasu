@@ -72,7 +72,6 @@
 | :-------- | :-----------------------------------------------------------------: | :-------------------------------------------- |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最全最便宜机场，18块1000G不限时流量 |
 | 狗狗加速      |       [官网](https://www.dginv.click/#/register?code=ZyMzTvB7)      | 集群负载均衡，不限速，无审计，高速专线，独家Hysteria2协议，解锁流媒体及ChatGPT，不限设备数 |
-| FlyBit    |       [官网](https://www.52fb.xyz/#/register?code=PCRCZ7uE)      | 月付10起，100GB/月，设备不限可家庭共享，SS协议+Secure隧道，解锁流媒体和ChatGPT |
 | SuperBiu  |        [官网](https://biubiux.online/#/register?code=A2Qhd5vz)        | ￥9/月，50GB流量，IPLC国际专线，50+全球节点，支持流媒体/GPT，仅限大陆个人使用 |
 | 老猫云       |        [官网](https://laomao.biz?path=register&code=JGCKGHWa)       | Trojan协议（TLS加密），深圳移动入口，IEPL企业级专线，最高1000Mbps，99% SLA，50+落地节点 |
 | 易连VPN     |         [官网](https://easylink.bar/register?code=1oqy2e26)         | 无限流量，1000Mbps不限速，全解锁Netflix/HBO/HULU，设备不限，3天免费试用 |
